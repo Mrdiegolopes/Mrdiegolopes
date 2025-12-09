@@ -15,3 +15,5 @@
 ## Linguagens
 [![Top Linguagens](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Mrdiegolopes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrdiegolopes&show_icons=true)
