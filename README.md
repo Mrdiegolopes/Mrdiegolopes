@@ -15,6 +15,8 @@
 ## Linguagens
 [![Top Linguagens](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Mrdiegolopes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Obrigado por visitar meu perfil! 😄
+
 
 # Diego Lopes
 # Welcome to my GitHub Profile! 👋
@@ -49,4 +51,4 @@
 
 ---
 
-### Obrigado por visitar meu perfil! 😄
+
