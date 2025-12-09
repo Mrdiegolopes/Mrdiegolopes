@@ -37,7 +37,8 @@
 ---
 
 ## 🔥 Streak Stats (Dias Seguidos de Código)
-![GitHub Streak](https://streak-stats.demolab.com?user=Mrdiegolopes&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mrdiegolopes&theme=radical)
+
 
 ---
 
